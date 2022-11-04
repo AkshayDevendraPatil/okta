@@ -15,7 +15,7 @@ export default {
             // If your app is configured to use the Implicit flow
             // instead of the Authorization Code with Proof of Code Key Exchange (PKCE)
             // you will need to uncomment the below line
-            // pkce: true
+            pkce: true
         },
 
         helpLinks: {
